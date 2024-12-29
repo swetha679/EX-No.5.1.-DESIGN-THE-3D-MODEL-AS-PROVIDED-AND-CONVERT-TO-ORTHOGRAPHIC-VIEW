@@ -2,7 +2,7 @@
 ## DATE:
 
 ## AIM: 
-To create orthographic view of given 3D model
+To create an orthographic view of a given 3D model
 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
@@ -36,9 +36,10 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![Screenshot 2024-12-29 165104](https://github.com/user-attachments/assets/ff3200ee-5423-46ec-8f2e-bcfa61b53fb1)
 
 
 ## RESULT:
-Thus, the given 3D model is converted into orthographic view.
+Thus, the given 3D model is converted into an orthographic view.
 
 
